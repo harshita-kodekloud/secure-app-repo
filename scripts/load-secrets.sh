@@ -34,5 +34,3 @@ fi
 echo "::add-mask::$DB_PASSWORD"
 echo "::add-mask::$API_KEY_PARAMETER"
 
-
-
