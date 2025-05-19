@@ -33,3 +33,6 @@ fi
 # Mask sensitive values from logs
 echo "::add-mask::$DB_PASSWORD"
 echo "::add-mask::$API_KEY_PARAMETER"
+
+
+
